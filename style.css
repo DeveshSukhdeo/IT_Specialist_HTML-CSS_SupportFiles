@@ -1,5 +1,9 @@
 body{
   background-color: light green;
+  text-align: center;
+}
+.navi{
+  background-color: purple; 
 }
 
 ul{
