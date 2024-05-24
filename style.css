@@ -41,13 +41,4 @@ li.dropDown{
 }
 .dropDown:hover .dropDown-content{
   display: block; 
-}
-
-/*.active{
-  background-color: #o4aa6d; 
-}
-.dropDown{
-  position: relative; 
-  display: inline-block; 
-  cursor: pointer; 
-}*/
+} 
