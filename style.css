@@ -1,3 +1,7 @@
+body{
+  background-color: light green;
+}
+
 ul{
   list-style-type: none; 
   margin: 0;
