@@ -8,12 +8,12 @@ ul{
 
 li{
   float: left; 
+  background-color: black;
 }
 
 li a, .dropbtn{
   display: inline-block; 
-  color: green;
-  background-color: black; 
+  color: white; 
   text-align: center;
   padding: 14px 16px; 
   text-decoration: none; 
