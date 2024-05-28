@@ -49,6 +49,7 @@ li a:hover, .dropDown:hover .dropbtn{
 
 li.dropDown{
   display: inline-block; 
+  width: 14%; 
 }
 
 .dropDown-content{
