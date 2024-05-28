@@ -6,6 +6,18 @@ body{
   display: flex;
   column-gap: 10px; 
 }
+.left{
+  border: 3px solid black;
+  height: 500px;
+  width: 25%;
+  background-color: lightgrey;
+}
+.right{
+  border: 3px solid black; 
+  height: 500px;
+  width: 50%;
+  background-color: lightgrey;
+}
 
 ul{
   list-style-type: none; 
