@@ -2,8 +2,9 @@ body{
   background-color: light green;
   text-align: center;
 }
-.navi{
-  background-color: purple; 
+.container{
+  display: flex;
+  column-gap: 10px; 
 }
 
 ul{
