@@ -12,14 +12,14 @@ body{
   height: 500px;
   width: 25%;
   background-color: lightgray;
-  margin-left: 30px; 
+  margin-left: 25px; 
 }
 .right{
   border: 3px solid black; 
   height: 500px;
   width: 75%;
   background-color: lightgray;
-  margin-right: 30px; 
+  margin-right: 25px; 
 }
 
 ul{
@@ -41,7 +41,7 @@ li a, .dropbtn{
   text-align: center;
   padding: 14px 16px; 
   text-decoration: none; 
-  width: 14%;
+  width: 25%;
 }
 
 li a:hover, .dropDown:hover .dropbtn{
